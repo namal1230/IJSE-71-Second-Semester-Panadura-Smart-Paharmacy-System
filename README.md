@@ -451,12 +451,4 @@ FRONTEND_BASE_URL=http://localhost:4200
 * Fork the repository and create a feature branch for changes.
 * Write tests for changes and keep the code style consistent.
 
-If you want, I can:
-
-* Export this README as `README.md` file for you to download.
-* Add a `docker-compose.yml` and CI/CD example.
-* Generate code snippets (AOP aspect, Stripe controller, Angular service) in dedicated files.
-
 ---
-
-**End of README**
