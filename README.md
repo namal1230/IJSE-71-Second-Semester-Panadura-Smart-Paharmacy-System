@@ -1,7 +1,6 @@
 # If you can't open this folders please refer this 
-Back-End(SpringBoot) - <a href="https://github.com/namal1230/Spring-Back-End.git">
-Front-End(Angular) - 
-
+Back-End(SpringBoot) - <a href="https://github.com/namal1230/Spring-Back-End.git">Link For SpringBoot Repository</a>
+Front-End(Angular) -  <a href="https://github.com/namal1230/SPM-System-Front-End.git">Link For Angular Repository</a>
 
 <img width="1351" height="716" alt="Screenshot 2025-09-21 204723" src="https://github.com/user-attachments/assets/7a0a56d2-b5ca-48ff-ae73-a2b5c1103c38" />
 <img width="582" height="282" alt="Screenshot 2025-09-21 204842" src="https://github.com/user-attachments/assets/dbd8d684-44f7-41da-b00e-7d87e99b2041" />
